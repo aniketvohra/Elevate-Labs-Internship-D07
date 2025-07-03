@@ -1,4 +1,4 @@
-Elevate-Labs-Internship-D07  
+Elevate Labs Internship D07  
 
 Task 07: Identify and Remove Suspicious Browser Extensions  
 
