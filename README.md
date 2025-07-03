@@ -11,7 +11,7 @@ Brave:
 ```brave://extensions/ → or go to menu → More Tools → Extensions```  
 
 Step 2: Review Installed Extensions
-List out all installed extensions.
+List out all installed extensions.  
 <img src="images/1.png">
 
 Check these:
@@ -26,7 +26,7 @@ Look for:
 - Unknown names or sources
 - Overly broad permissions (e.g., “Read and change all your data on all websites”)
 - Extensions you didn’t knowingly install
-- Negative reviews or flagged by users
+- Negative reviews or flagged by users  
 <img src="images/2.png">
 
 Step 4: Remove Suspicious Extensions  
